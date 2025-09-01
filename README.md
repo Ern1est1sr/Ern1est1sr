@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ern1est1sr
+- 👋 Hi, I’m Ernest Imoisi
 - 👀 I’m interested in the DevOps and the technology advancement going on around the world 
 - 🌱 I’m currently learning to build code and AI/ML 
 - 💞️ I’m looking to collaborate on various projects 
@@ -9,4 +9,4 @@
 <!---
 Ern1est1sr/Ern1est1sr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+

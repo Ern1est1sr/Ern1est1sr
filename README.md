@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ernest Imoisi  
 
-🚀 **Passionate Developer | Growth Lead Engineer | Cloud & DevOps Enthusiast**  
+**`Passionate Developer | Growth Lead Engineer | Cloud & DevOps Enthusiast`**
 
 I’m focused on building scalable cloud solutions, integrating AI/ML into workflows, and driving innovation through data engineering and DevOps practices.  
 
